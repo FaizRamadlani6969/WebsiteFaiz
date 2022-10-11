@@ -1,0 +1,52 @@
+body{
+    background-image:url('images/inazuma.jpg');
+    background-size: 1000px;
+}
+h1 {
+font-style: normal;
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+}
+img {
+width: 800px;
+height: 450px;
+}
+#credit{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#teks{
+    font-family: Arial, Helvetica, sans-serif;
+    color: cyan;
+}
+#tombol{
+    display: block;
+    width: 125px;
+    height: 40px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Jelasan{
+    color: #ff00ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#teks2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ungu{
+    color: purple;
+}
+#hijau{
+    color: green;
+}
+#kuning{
+    color: goldenrod;
+}
+#biru{
+    color: blue;
+}
+#birumuda{
+    color: darkturquoise;
+}
+#kontak{
+    text-align: left;
+}
